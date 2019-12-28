@@ -1,0 +1,13 @@
+{
+  "name": "gatsby-transformer-mdx-content-page-recipes",
+  "version": "0.0.1",
+  "description": "A Gatsby transformer plugin that creates MDX Content Pages with cooking recipes on them.",
+  "main": "index.js",
+  "author": "rmp",
+  "license": "MIT",
+  "dependencies": {
+    "extract-string-numbers": "^1.0.0",
+    "gatsby-interface-recipes": "^0.0.1",
+    "gatsby-transformer-mdx-content-pages": "^1.1.1"
+  }
+}
